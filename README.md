@@ -1,5 +1,5 @@
 # SneakPeak
-An Application to view websites briefly using showwebpages.workflow 
+An Application to view websites briefly using WebSite_Popup.workflow 
 This Application uses MacOS's built in WebKit framework and Automator's WebPage displaying capabilities.
 
 **©AR Systems**
